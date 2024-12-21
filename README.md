@@ -1,4 +1,4 @@
-
+![Alt Text](pepewh-pepewifhat.gif)
 # 👋 Hello, I'm Reda Tahri!  
 
 🎓 **Student at 42 Network**  
