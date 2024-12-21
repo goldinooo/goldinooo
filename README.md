@@ -1,14 +1,34 @@
-## Hi there 👋
 
-**goldinooo/goldinooo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+![Welcome GIF]([https://media.giphy.com/media/3o7abKhOpu0NwenH3O/giphy.gif](https://media1.tenor.com/m/5ry-200hErMAAAAd/hacker-hacker-man.gif))  
 
-Here are some ideas to get you started:
+# 👋 Hello, I'm Reda Tahri!  
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+🎓 **Student at 42 Network**  
+🌱 **Currently diving deep into Machine Learning**  
+💡 **Driven by curiosity and passion for learning new things**  
+
+---
+
+## 🚀 About Me  
+- 📚 I’m a dedicated student at the 42 Network, where I thrive in a collaborative and innovative learning environment.  
+- 🤖 Exploring the fascinating world of **Artificial Intelligence** and **Machine Learning** to build smarter, data-driven solutions.  
+- 🔍 I’m always on the lookout for opportunities to learn and grow—new challenges excite me!  
+
+---
+
+## 🛠️ Skills  
+- **Programming Languages**: C, C++, Python, 
+- **Development Tools**: Git, Docker, VS Code, VIM  
+- **Special Interests**: Algorithms, Binary exploitation, Data Science, AI  
+
+---
+
+## 🌟 What I’m Up To  
+- 🧠 Building projects in **Machine Learning** and refining my skills in **data analysis**.  
+- 🚀 Contributing to open-source projects to learn and give back to the community.  
+- 📖 Constantly learning new technologies and enhancing my technical toolbox.  
+
+---
+
+Thank you for stopping by! Don’t forget to check out my repositories and feel free to collaborate.  
+Let’s make something amazing together! 🚀  
