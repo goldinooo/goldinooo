@@ -1,4 +1,4 @@
-![Alt Text]([pepewh-pepewifhat.gif](https://i.pinimg.com/originals/eb/7f/0c/eb7f0ccf927c93aeedbb3cf100d6fd29.gif))
+![download](https://github.com/user-attachments/assets/92ab21de-4821-4740-80da-2dfadc5cb028)
 # 👋 Hello, I'm Reda Tahri!  
 
 🎓 **Student at 42 Network**  
